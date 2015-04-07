@@ -17,8 +17,6 @@
 
 package de.schildbach.wallet;
 
-import java.util.List;
-
 import android.content.ContentProvider;
 import android.content.ContentValues;
 import android.content.Context;
@@ -28,11 +26,12 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteQueryBuilder;
 import android.net.Uri;
 
+import java.util.List;
+
 /**
  * @author Andreas Schildbach
  */
-public class AddressBookProvider extends ContentProvider
-{
+public class AddressBookProvider extends ContentProvider{
 	private static final String DATABASE_TABLE = "address_book";
 
 	public static final String KEY_ROWID = "_id";
