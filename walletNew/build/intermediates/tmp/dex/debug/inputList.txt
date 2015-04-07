@@ -1,1 +1,1 @@
-/media/DATA/Projects/android_studio_workspace/bitcoin_wallet_gradle/walletNew/build/intermediates/multi-dex/debug/allclasses.jar
+/media/DATA/Projects/android_studio_workspace/bitcoin_wallet/walletNew/build/intermediates/multi-dex/debug/allclasses.jar

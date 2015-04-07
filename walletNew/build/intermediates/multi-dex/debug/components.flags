@@ -1,5 +1,5 @@
--injars /media/DATA/Projects/android_studio_workspace/bitcoin_wallet_gradle/walletNew/build/intermediates/multi-dex/debug/allclasses.jar
--outjars /media/DATA/Projects/android_studio_workspace/bitcoin_wallet_gradle/walletNew/build/intermediates/multi-dex/debug/componentClasses.jar
+-injars /media/DATA/Projects/android_studio_workspace/bitcoin_wallet/walletNew/build/intermediates/multi-dex/debug/allclasses.jar
+-outjars /media/DATA/Projects/android_studio_workspace/bitcoin_wallet/walletNew/build/intermediates/multi-dex/debug/componentClasses.jar
 
 -libraryjars /media/DATA/android-sdks/build-tools/21.1.2/lib/shrinkedAndroid.jar
 
@@ -8,7 +8,7 @@
 -dontobfuscate
 -dontpreverify
 -dontwarn
--printconfiguration /media/DATA/Projects/android_studio_workspace/bitcoin_wallet_gradle/walletNew/build/intermediates/multi-dex/debug/components.flags
+-printconfiguration /media/DATA/Projects/android_studio_workspace/bitcoin_wallet/walletNew/build/intermediates/multi-dex/debug/components.flags
 
 
 -keep class de.schildbach.wallet.WalletApplication {

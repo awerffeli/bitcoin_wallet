@@ -42,8 +42,8 @@ android {
 
 dependencies {
     compile project(':intigrationNew')
-    //compile 'com.android.support:support-v4:19.1.0'
-    //compile 'com.android.support:support-v13:19.1.0'
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-v13:19.1.0'
     compile 'org.bitcoinj:bitcoinj-core:0.12.3'
     compile 'com.google.protobuf:protobuf-java:2.5.0'
     compile 'com.google.guava:guava:16.0.1'
