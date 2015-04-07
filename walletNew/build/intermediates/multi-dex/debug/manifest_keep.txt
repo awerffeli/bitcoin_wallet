@@ -1,0 +1,29 @@
+-keep class de.schildbach.wallet.WalletApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class de.schildbach.wallet.ui.WalletActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.send.SendCoinsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.SendCoinsQrActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.RequestCoinsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.AddressBookActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ExchangeRatesActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.NetworkMonitorActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.preference.PreferenceActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.RestoreWalletActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ScanActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.send.SweepWalletActivity { <init>(); }
+-keep class de.schildbach.wallet.AddressBookProvider { <init>(); }
+-keep class de.schildbach.wallet.ExchangeRatesProvider { <init>(); }
+-keep class de.schildbach.wallet.FileAttachmentProvider { <init>(); }
+-keep class de.schildbach.wallet.WalletBalanceWidgetProvider { <init>(); }
+-keep class de.schildbach.wallet.service.BlockchainServiceImpl { <init>(); }
+-keep class de.schildbach.wallet.offline.AcceptBluetoothService { <init>(); }
+-keep class de.schildbach.wallet.service.AutosyncReceiver { <init>(); }
+-keep class de.schildbach.wallet.service.UpgradeWalletService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
