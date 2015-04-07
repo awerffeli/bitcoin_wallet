@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bitcoin_wallet_gradle.iml" filepath="$PROJECT_DIR$/bitcoin_wallet_gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitcoin_wallet.iml" filepath="$PROJECT_DIR$/bitcoin_wallet.iml" />
       <module fileurl="file://$PROJECT_DIR$/intigrationNew/intigrationNew.iml" filepath="$PROJECT_DIR$/intigrationNew/intigrationNew.iml" />
       <module fileurl="file://$PROJECT_DIR$/walletNew/walletNew.iml" filepath="$PROJECT_DIR$/walletNew/walletNew.iml" />
     </modules>
