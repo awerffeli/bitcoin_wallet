@@ -1,2 +1,2 @@
-include ':intigrationNew'
-include ':walletNew'
+include ':integration'
+include ':wallet'

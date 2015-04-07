@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/intigrationNew" />
-            <option value="$PROJECT_DIR$/walletNew" />
+            <option value="$PROJECT_DIR$/integration" />
+            <option value="$PROJECT_DIR$/wallet" />
           </set>
         </option>
       </GradleProjectSettings>

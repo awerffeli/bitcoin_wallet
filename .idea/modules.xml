@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bitcoin_wallet.iml" filepath="$PROJECT_DIR$/bitcoin_wallet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/intigrationNew/intigrationNew.iml" filepath="$PROJECT_DIR$/intigrationNew/intigrationNew.iml" />
-      <module fileurl="file://$PROJECT_DIR$/walletNew/walletNew.iml" filepath="$PROJECT_DIR$/walletNew/walletNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration/integration.iml" filepath="$PROJECT_DIR$/integration/integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallet/wallet.iml" filepath="$PROJECT_DIR$/wallet/wallet.iml" />
     </modules>
   </component>
 </project>
